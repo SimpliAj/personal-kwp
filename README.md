@@ -17,6 +17,7 @@ To set up the bot, follow these steps:
 2. Enter your Discord Bot Token.
 3. Change Prefix.
 4. Change MongoDB URL in modules/db.js
+5. Unzip node_modules.zip
 
 Change these Channel ID 742337683979763732 with your own where you want to run commands in all files!
 
